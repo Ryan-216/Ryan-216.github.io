@@ -29,5 +29,5 @@ Every time I want to write something, I feel I've read too few books, my express
 
 ## Conclusion
 
-Since it's come to this, let's just go to sleep. **<u>Cheer up, i can do it ヾ(◍°∇°◍)ﾉﾞ！</u>**
+Since it's come to this, let's just go to sleep. **<u>Cheer up, i can do it ！</u>**
 

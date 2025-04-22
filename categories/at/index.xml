@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>At - Category - RhysBlog</title>
+        <link>http://localhost:1313/categories/at/</link>
+        <description>At - Category - RhysBlog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 23 Apr 2025 04:52:05 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/at/" rel="self" type="application/rss+xml" /><item>
+    <title>Who am i?</title>
+    <link>http://localhost:1313/who_am_i/</link>
+    <pubDate>Wed, 23 Apr 2025 04:52:05 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/who_am_i/</guid>
+    <description><![CDATA[<p>新建</p>]]></description>
+</item></channel>
+</rss>
