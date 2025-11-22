@@ -2,55 +2,55 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/categories/article/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://localhost:1313/categories/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>https://Ryan-216.github.io/categories/article/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://Ryan-216.github.io/categories/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/categories/"
+                        href="https://Ryan-216.github.io/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/categories/"
+                    href="https://Ryan-216.github.io/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/about_life_and_death/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>https://Ryan-216.github.io/about_life_and_death/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://Ryan-216.github.io/posts/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/posts/"
+                        href="https://Ryan-216.github.io/zh-cn/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/posts/"
+                    href="https://Ryan-216.github.io/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/reading-notes/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>https://Ryan-216.github.io/tags/reading-notes/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://Ryan-216.github.io/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/"
+                        href="https://Ryan-216.github.io/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/"
+                    href="https://Ryan-216.github.io/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
+            <loc>https://Ryan-216.github.io/tags/</loc><lastmod>2025-10-23T13:34:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/tags/"
+                        href="https://Ryan-216.github.io/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/tags/"
+                    href="https://Ryan-216.github.io/tags/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/tittle-tattle/</loc><lastmod>2025-04-23T04:52:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/who_am_i/</loc><lastmod>2025-04-23T04:52:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/tags/life/</loc><lastmod>2025-03-17T08:19:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/welcome-to-my-world/</loc><lastmod>2025-03-17T08:19:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://Ryan-216.github.io/tags/tittle-tattle/</loc><lastmod>2025-04-23T04:52:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://Ryan-216.github.io/who_am_i/</loc><lastmod>2025-04-23T04:52:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://Ryan-216.github.io/tags/life/</loc><lastmod>2025-03-17T08:19:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://Ryan-216.github.io/welcome-to-my-world/</loc><lastmod>2025-03-17T08:19:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://Ryan-216.github.io/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/categories/documentation/"
+                        href="https://Ryan-216.github.io/zh-cn/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/categories/documentation/"
+                    href="https://Ryan-216.github.io/categories/documentation/"
                     /></url></urlset>
