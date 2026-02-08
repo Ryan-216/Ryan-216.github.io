@@ -1,28 +1,28 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - RhysBlog</title>
-        <link>https://Ryan-216.github.io/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Tags - Tag - RhysBlog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Oct 2025 13:34:17 &#43;0800</lastBuildDate><atom:link href="https://Ryan-216.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Reading Notes</title>
-    <link>https://Ryan-216.github.io/tags/reading-notes/</link>
-    <pubDate>Thu, 23 Oct 2025 13:34:17 &#43;0800</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 08 Feb 2026 14:23:43 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Tittle-Tattle</title>
+    <link>http://localhost:1313/tags/tittle-tattle/</link>
+    <pubDate>Sun, 08 Feb 2026 14:23:43 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://Ryan-216.github.io/tags/reading-notes/</guid>
+    <guid>http://localhost:1313/tags/tittle-tattle/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Tittle-Tattle</title>
-    <link>https://Ryan-216.github.io/tags/tittle-tattle/</link>
-    <pubDate>Wed, 23 Apr 2025 04:52:05 &#43;0800</pubDate>
+    <title>Reading Notes</title>
+    <link>http://localhost:1313/tags/reading-notes/</link>
+    <pubDate>Thu, 23 Oct 2025 13:34:17 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://Ryan-216.github.io/tags/tittle-tattle/</guid>
+    <guid>http://localhost:1313/tags/reading-notes/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Life</title>
-    <link>https://Ryan-216.github.io/tags/life/</link>
+    <link>http://localhost:1313/tags/life/</link>
     <pubDate>Mon, 17 Mar 2025 08:19:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://Ryan-216.github.io/tags/life/</guid>
+    <guid>http://localhost:1313/tags/life/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

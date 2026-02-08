@@ -1,28 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Article - Category - RhysBlog</title>
-        <link>https://Ryan-216.github.io/categories/article/</link>
+        <link>http://localhost:1313/categories/article/</link>
         <description>Article - Category - RhysBlog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Oct 2025 13:34:17 &#43;0800</lastBuildDate><atom:link href="https://Ryan-216.github.io/categories/article/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 08 Feb 2026 14:23:43 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/article/" rel="self" type="application/rss+xml" /><item>
+    <title>Write Down Whatever Comes To Mind (1)</title>
+    <link>http://localhost:1313/write_down_whatever_comes_to_mind_1/</link>
+    <pubDate>Sun, 08 Feb 2026 14:23:43 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/write_down_whatever_comes_to_mind_1/</guid>
+    <description><![CDATA[As title]]></description>
+</item><item>
     <title>Of Life and Death</title>
-    <link>https://Ryan-216.github.io/about_life_and_death/</link>
+    <link>http://localhost:1313/about_life_and_death/</link>
     <pubDate>Thu, 23 Oct 2025 13:34:17 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://Ryan-216.github.io/about_life_and_death/</guid>
+    <guid>http://localhost:1313/about_life_and_death/</guid>
     <description><![CDATA[Reflections on Life from My 18-Year-Old Self]]></description>
 </item><item>
     <title>Who Am I?</title>
-    <link>https://Ryan-216.github.io/who_am_i/</link>
+    <link>http://localhost:1313/who_am_i/</link>
     <pubDate>Wed, 23 Apr 2025 04:52:05 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://Ryan-216.github.io/who_am_i/</guid>
+    <guid>http://localhost:1313/who_am_i/</guid>
     <description><![CDATA[Thanks to the Costa Double Rose Coconut Latte, which kept me awake in the middle of the night and reminded me to update.]]></description>
 </item><item>
     <title>Welcome To My World!</title>
-    <link>https://Ryan-216.github.io/welcome-to-my-world/</link>
+    <link>http://localhost:1313/welcome-to-my-world/</link>
     <pubDate>Mon, 17 Mar 2025 08:19:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://Ryan-216.github.io/welcome-to-my-world/</guid>
+    <guid>http://localhost:1313/welcome-to-my-world/</guid>
     <description><![CDATA[My first post]]></description>
 </item></channel>
 </rss>
